@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051998642624",
+    "project_id": "exersise6-2604",
+    "storage_bucket": "exersise6-2604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051998642624:android:6db7ca365e49617a8ce825",
+        "android_client_info": {
+          "package_name": "com.anonymous.Exersise6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJEo_jZcm7elBe880vUZ0wHYt9FyL5C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
